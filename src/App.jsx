@@ -98,7 +98,7 @@ export default function App() {
 
       {/* Footer */}
       <footer id="contact" className="bg-white py-6 text-center shadow mt-12">
-        <p className="text-gray-600">&copy; 2025 StartupX. All rights reserved.</p>
+        <p className="text-gray-600">&copy; 2025 Koushik's Page. All rights reserved.</p>
         <p className="text-gray-600">Mobile:+91 9491894662 | Mail: mallelakoshik05@gmail.com </p>
       </footer>
     </div>
